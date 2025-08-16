@@ -14,8 +14,8 @@ Each project contains:
 ### 1. E-Commerce Sales Dashboard
 - **Goal:** Analyze online store performance across orders, products, customers, and revenue to uncover key business insights.  
 - **Data Sources:**
-  - `Orders.csv` → Order-level data (order ID, customer, region, date, etc.)
-  - `Details.csv` → Line-item details (products, quantity, price, discount, profit, etc.)
+  - `orders.csv` → Order-level data (order ID, customer, region, date, etc.)
+  - `details.csv` → Line-item details (products, quantity, price, discount, profit, etc.)
 - **Key Features:**
   - KPIs: Total Sales, Profit, Average Order Value, Discount Impact
   - Trend analysis by Order Date
