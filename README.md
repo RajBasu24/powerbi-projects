@@ -1,9 +1,5 @@
 # Power BI Projects 📊
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/powerbi-projects)
 A collection of Power BI dashboards and data analytics projects.  
 Each project contains:
 - Interactive **Power BI reports** (`.pbix`)
