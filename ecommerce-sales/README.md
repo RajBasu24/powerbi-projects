@@ -33,11 +33,6 @@ Both datasets were joined in Power BI to build a unified sales model.
 
 ---
 
-## 🎨 Dashboard Background
-![E-Commerce Dashboard Background](./ecommerce-dashboard-background.png)
-
----
-
 ## 🚀 How to Use
 1. Download the `.pbix` file:
    - `ecommerce-sales-dashboard.pbix`
