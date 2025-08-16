@@ -8,7 +8,7 @@ The goal is to help business stakeholders track **sales, profit, customers, and 
 
 ## 🗂️ Dataset
 - **orders.csv** → Order-level information (Order ID, Customer, Region, Order Date, etc.)
-- *details.csv** → Product-level details (Product Name, Quantity, Price, Discount, Profit)
+- **details.csv** → Product-level details (Product Name, Quantity, Price, Discount, Profit)
 
 Both datasets were joined in Power BI to build a unified sales model.
 
