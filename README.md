@@ -26,7 +26,6 @@ Each project contains:
   - Seasonal spikes in orders contribute heavily to overall revenue.
   - Discounts improved sales volume but negatively impacted profit margins in some categories.
   - A few customers account for a disproportionate share of revenue (Pareto trend).
-- 📂 [Project Folder](./ecommerce-sales)
 
 ---
 
