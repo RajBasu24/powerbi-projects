@@ -36,4 +36,4 @@ Each project contains:
 ## 🚀 How to Use
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/your-username/powerbi-projects.git
+   git clone https://github.com/RajBasu24/powerbi-projects.git
