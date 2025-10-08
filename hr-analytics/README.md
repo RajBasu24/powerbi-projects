@@ -26,7 +26,7 @@ The dataset was cleaned, transformed, and modeled in Power BI to build an intera
 - Performance Insights: Job Satisfaction and Work-Life Balance metrics
 
 ## 📌 Dashboard Preview
-<img width="2119" height="1186" alt="hr-analytics-dashboard" src="https://github.com/user-attachments/assets/82b14cd2-b731-4959-a896-8e9d74611a90" />
+<img width="1279" height="717" alt="hr-analytics-dashboard" src="https://github.com/user-attachments/assets/5d313d83-cb62-4f89-8331-7bd67adcbb05" />
 
 ---
 
