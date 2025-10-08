@@ -15,7 +15,7 @@ Both datasets were joined in Power BI to build a unified sales model.
 ---
 
 ## ⚙️ Data Preparation
-- Imported CSVs into **Power Query** for cleaning and transformations
+- Imported CSVs into **Power Query** for cleaning and transformation
 - Created relationships between Orders and Order Details tables
 
 ---
