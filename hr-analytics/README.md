@@ -7,7 +7,7 @@ It analyses key HR metrics, including employee demographics, attrition trends, j
 ---
 
 ## 🗂️ Dataset
-- **employee-details.csv** → Employee-level information (Employee ID, Age, Department, Gender, Education, Job Role, Salary, Attrition Status, etc.)
+- **employee-details.csv** → Employee-level information (Employee ID, Department, Gender, Education, Job Role, Salary, Attrition Status, etc.)
 
 The dataset was cleaned, transformed, and modeled in Power BI to build an interactive HR analytics dashboard.
 
