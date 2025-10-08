@@ -29,7 +29,7 @@ Both datasets were joined in Power BI to build a unified sales model.
 ---
 
 ## 📌 Dashboard Preview
-![E-Commerce Sales Dashboard](./ecommerce-sales-dashboard.png)
+<img width="1426" height="802" alt="ecommerce-sales-dashboard" src="https://github.com/user-attachments/assets/3b262019-f06a-436c-8c28-e41e5354b1d8" />
 
 ---
 
