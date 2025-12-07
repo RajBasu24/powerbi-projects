@@ -1,7 +1,7 @@
 # E-Commerce Sales Dashboard 📊
 
 ## 📖 Project Overview
-This Power BI dashboard analyzes online store performance using order and product-level data.  
+This Power BI dashboard analyzes online store performance using order and product-level data.
 The goal is to help business stakeholders track **sales, profit, customers, and product performance** interactively.
 
 ---
